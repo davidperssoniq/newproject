@@ -1,4 +1,0 @@
-Hello world.
-This is an edit.
-This is a sentence.
-This is the last sentence in this file.
