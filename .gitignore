@@ -1,3 +1,4 @@
 *.secret
 
-archives/
+archives/*
+~archives/.gitignore
