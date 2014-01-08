@@ -4,4 +4,4 @@
 * Profession: Computer Science
 
 ## Email Info
-Student-email: student@email.com
+ * Student-email: student@email.com
