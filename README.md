@@ -6,3 +6,4 @@
 ## Email Info
  * Student-email: student@email.com
  * Someone's: Someoneelse@email.com
+ * another: another@email.com
